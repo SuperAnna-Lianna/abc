@@ -1,0 +1,9 @@
+{
+  "groups": [{
+    "name": "lianjiadb",
+    "type": "com.github.coolcool.sloth.lianjiadb.config.database.DBConfig",
+    "sourceType": "com.github.coolcool.sloth.lianjiadb.config.database.DBConfig"
+  }],
+  "properties": [],
+  "hints": []
+}
